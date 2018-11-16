@@ -1,13 +1,13 @@
 {
-  "main.css": "/use-socket/static/css/main.e2190e63.chunk.css",
-  "main.js": "/use-socket/static/js/main.65379a52.chunk.js",
-  "main.js.map": "/use-socket/static/js/main.65379a52.chunk.js.map",
-  "static/js/1.1a35778b.chunk.js": "/use-socket/static/js/1.1a35778b.chunk.js",
-  "static/js/1.1a35778b.chunk.js.map": "/use-socket/static/js/1.1a35778b.chunk.js.map",
-  "runtime~main.js": "/use-socket/static/js/runtime~main.ba5df8c7.js",
-  "runtime~main.js.map": "/use-socket/static/js/runtime~main.ba5df8c7.js.map",
-  "static/css/main.e2190e63.chunk.css.map": "/use-socket/static/css/main.e2190e63.chunk.css.map",
-  "index.html": "/use-socket/index.html",
-  "precache-manifest.2d393c354c708eafe318d990df2d2ae9.js": "/use-socket/precache-manifest.2d393c354c708eafe318d990df2d2ae9.js",
-  "service-worker.js": "/use-socket/service-worker.js"
+  "main.css": "/use-socketio/static/css/main.e2190e63.chunk.css",
+  "main.js": "/use-socketio/static/js/main.0d66f22e.chunk.js",
+  "main.js.map": "/use-socketio/static/js/main.0d66f22e.chunk.js.map",
+  "static/js/1.c2c7b17f.chunk.js": "/use-socketio/static/js/1.c2c7b17f.chunk.js",
+  "static/js/1.c2c7b17f.chunk.js.map": "/use-socketio/static/js/1.c2c7b17f.chunk.js.map",
+  "runtime~main.js": "/use-socketio/static/js/runtime~main.c1027e37.js",
+  "runtime~main.js.map": "/use-socketio/static/js/runtime~main.c1027e37.js.map",
+  "static/css/main.e2190e63.chunk.css.map": "/use-socketio/static/css/main.e2190e63.chunk.css.map",
+  "index.html": "/use-socketio/index.html",
+  "precache-manifest.e91c5cba294f110752f57984f3a7d0c9.js": "/use-socketio/precache-manifest.e91c5cba294f110752f57984f3a7d0c9.js",
+  "service-worker.js": "/use-socketio/service-worker.js"
 }
