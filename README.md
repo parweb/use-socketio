@@ -20,9 +20,12 @@ const Hello = () => {
    * The second element is the socket(io) himself
    * The key in useSocket is the event name to listen to
    **/
-  const [lutin, socket] = useSocket("lutin");
+  const [lutin, emit, socket] = useSocket("lutin");
 
   useEffect(() => socket.emit("lutin", "hahah"), []);
+
+  // or implicit emit to "lutin" eventkey
+  useEffect(() => emit("hahah"), []);
 
   return <div>Hello {lutin}</div>;
 };
