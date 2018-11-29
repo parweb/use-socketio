@@ -8,5 +8,5 @@ export function useSocket(eventKey) {
 
   useEffect(() => socket.on(eventKey, setValue), []);
 
-  return [value, socket];
+  return [value, (message) => socket.emit(eventKey, message), socket];
 }
